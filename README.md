@@ -12,7 +12,7 @@ Uno strumento per estrarre automaticamente i post da pagine Instagram di locali 
 
 1. Clona il repository:
 ```bash
-git clone <url-repository>
+git clone https://github.com/blin5/Instagram-Event-Scraper.git
 cd instagram-event-scraper
 ```
 2. Installa le dipendenze necessarie:
